@@ -1,5 +1,9 @@
 # v5LabLogo
-Old school win32 Opengl3 app controlled by Logo commands
+Old school win32 Opengl3 app controlled by Logo commands. 
+Designed with voice commands in mind, and VR.
+
+## Compilation directives
+Open v5Lab/v5Lab.sln
 
 ## Rules
 ```
