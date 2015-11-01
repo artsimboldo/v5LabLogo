@@ -3,7 +3,7 @@ Old school win32 Opengl3 app controlled by Logo commands.
 Designed with voice commands in mind, and VR.
 
 ## Compilation directives
-Visual Studio 2015
+Visual Studio 2015  
 Open v5Lab/v5Lab.sln
 
 ## Rules
