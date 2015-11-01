@@ -7,7 +7,7 @@ Visual Studio 2015
 Open v5Lab/v5Lab.sln
 
 ## Commands
-Include the writing of a Scanner and a Parser. Do not use a Parser generator to allow unstructured chains of commands. 
+Include the writing of a Logo Scanner and Parser. Do not use a Parser generator to allow unstructured chains of commands. 
 Rules for commands are the following:
 ```
 <logo-home-command> ::= HOME  
