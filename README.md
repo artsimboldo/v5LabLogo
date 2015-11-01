@@ -6,7 +6,7 @@ Designed with voice commands in mind, and VR.
 Visual Studio 2015  
 Open v5Lab/v5Lab.sln
 
-## Rules
+## Commands
 ```
 <logo-home-command> ::= HOME  
 <logo-clear-command> ::= CLEAR  
