@@ -18,7 +18,5 @@ Open v5Lab/v5Lab.sln
 <logo-repeat-command> ::= REPEAT <integer> <logo-sentence> END  
 <logo-pen-command> ::= PENUP | PENDOWN  
 <logo-pen-command> ::= PENWIDTH <integer>  
-<logo-end-of-file> ::= IDENTIFIER  
-<logo-end-of-file> ::= EOF 
 ```
 
